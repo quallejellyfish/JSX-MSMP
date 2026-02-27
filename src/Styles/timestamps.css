@@ -1,0 +1,30 @@
+.wrapper {
+    gap: 4rem;
+    translate: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 0;
+}
+
+.head {
+    font-size: 50px;
+}
+
+.info-text {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.day-wrapper {
+    background-color: #ffffff;
+    height: fit-content;
+    width: 600px;
+    border-radius: 35px;
+    padding: 40px 0 80px 80px;
+}
+
+video {
+    width: 500px;
+    height: 400px;
+}

@@ -1,0 +1,262 @@
+Received data: 
+
+Received data: Array
+(
+    [usernameEmail] => wolfi
+    [password] => password
+)
+
+
+Attempting to find user: wolfi
+
+User found: Yes
+
+Password verification result: Failure
+Session data: Array
+(
+)
+
+Response: {"success":false,"error":"Incorrect password","debug":"Password verification failed"}
+Received data: Array
+(
+    [usernameEmail] => wolfi
+    [password] => password
+)
+
+
+Attempting to find user: wolfi
+
+User found: Yes
+
+Password verification result: Failure
+Session data: Array
+(
+)
+
+Response: {"success":false,"error":"Incorrect password","debug":"Password verification failed"}
+Received data: Array
+(
+    [usernameEmail] => wolfi
+    [password] => password
+)
+
+
+Attempting to find user: wolfi
+
+User found: Yes
+
+Password verification result: Failure
+Session data: Array
+(
+)
+
+Response: {"success":false,"error":"Incorrect password","debug":"Password verification failed"}
+Received data: 
+
+[2024-12-17 16:34:39] Received data: 
+
+[2024-12-17 16:34:45] Received data: Array
+(
+    [usernameEmail] => wolfi
+    [password] => password
+)
+
+
+[2024-12-17 16:34:45] Attempting to find user: wolfi
+
+[2024-12-17 16:34:45] User found: Yes
+[2024-12-17 16:34:45] User data: Array
+(
+    [id] => 2
+    [username] => wolfi
+    [email] => wolfi@test.erfagjitharuigjhaeiugaigjgiu
+    [password] => $2y$10$ZUCOVIQIxJNfYSDCg9/JjucAYc3rMbtxDzkX7ugNN3pW4ajVD4VD2
+    [created_at] => 2024-12-07 18:24:57
+)
+
+[2024-12-17 16:34:45] Stored hashed password: $2y$10$ZUCOVIQIxJNfYSDCg9/JjucAYc3rMbtxDzkX7ugNN3pW4ajVD4VD2
+[2024-12-17 16:34:45] Provided password: password
+[2024-12-17 16:34:45] Password verification result: Failure
+[2024-12-17 16:34:45] password_verify() function result: false
+[2024-12-17 16:34:45] Session data: Array
+(
+)
+
+[2024-12-17 16:34:45] Response: {"success":false,"error":"Incorrect password","debug":"Password verification failed"}
+[2024-12-17 16:34:48] Received data: 
+
+[2024-12-17 16:35:15] Received data: Array
+(
+    [usernameEmail] => wolfi
+    [password] => password
+)
+
+
+[2024-12-17 16:35:15] Attempting to find user: wolfi
+
+[2024-12-17 16:35:15] User found: Yes
+[2024-12-17 16:35:15] User data: Array
+(
+    [id] => 2
+    [username] => wolfi
+    [email] => wolfi@test.erfagjitharuigjhaeiugaigjgiu
+    [password] => $2y$10$ZUCOVIQIxJNfYSDCg9/JjucAYc3rMbtxDzkX7ugNN3pW4ajVD4VD2
+    [created_at] => 2024-12-07 18:24:57
+)
+
+[2024-12-17 16:35:15] Stored hashed password: $2y$10$ZUCOVIQIxJNfYSDCg9/JjucAYc3rMbtxDzkX7ugNN3pW4ajVD4VD2
+[2024-12-17 16:35:15] Provided password: password
+[2024-12-17 16:35:15] Password verification result: Failure
+[2024-12-17 16:35:15] password_verify() function result: false
+[2024-12-17 16:35:15] Session data: Array
+(
+)
+
+[2024-12-17 16:35:15] Response: {"success":false,"error":"Incorrect password","debug":"Password verification failed"}
+
+
+[2024-12-17 16:40:07] Received data: Array
+(
+    [usernameEmail] => wolfi
+    [password] => password
+)
+
+
+[2024-12-17 16:40:07] Attempting to find user: wolfi
+
+[2024-12-17 16:40:07] User found: Yes
+[2024-12-17 16:40:07] User data: Array
+(
+    [id] => 2
+    [username] => wolfi
+    [email] => wolfi@test.erfagjitharuigjhaeiugaigjgiu
+    [password] => $2y$10$ZUCOVIQIxJNfYSDCg9/JjucAYc3rMbtxDzkX7ugNN3pW4ajVD4VD2
+    [created_at] => 2024-12-07 18:24:57
+)
+
+[2024-12-17 16:40:07] Stored hashed password: $2y$10$ZUCOVIQIxJNfYSDCg9/JjucAYc3rMbtxDzkX7ugNN3pW4ajVD4VD2
+[2024-12-17 16:40:07] Provided password: password
+[2024-12-17 16:40:07] Password verification result: Failure
+[2024-12-17 16:40:07] password_verify() function result: false
+[2024-12-17 16:40:07] Session data: Array
+(
+)
+
+[2024-12-17 16:40:07] Response: {"success":false,"error":"Incorrect password","debug":"Password verification failed"}
+[2024-12-17 16:42:29] Received data: Array
+(
+    [usernameEmail] => wolfi
+    [password] => password
+)
+
+
+[2024-12-17 16:42:29] Attempting to find user: wolfi
+
+[2024-12-17 16:42:29] User found: Yes
+[2024-12-17 16:42:29] User data: Array
+(
+    [id] => 2
+    [username] => wolfi
+    [email] => wolfi@test.erfagjitharuigjhaeiugaigjgiu
+    [password] => $2y$10$ZUCOVIQIxJNfYSDCg9/JjucAYc3rMbtxDzkX7ugNN3pW4ajVD4VD2
+    [created_at] => 2024-12-07 18:24:57
+)
+
+[2024-12-17 16:42:29] Stored hashed password: $2y$10$ZUCOVIQIxJNfYSDCg9/JjucAYc3rMbtxDzkX7ugNN3pW4ajVD4VD2
+[2024-12-17 16:42:29] Provided password: password
+[2024-12-17 16:42:29] Password verification result: Failure
+[2024-12-17 16:42:29] password_verify() function result: false
+[2024-12-17 16:42:29] Session data: Array
+(
+)
+
+[2024-12-17 16:42:29] Response: {"success":false,"error":"Incorrect password","debug":"Password verification failed"}
+[2024-12-17 16:43:50] Received data: Array
+(
+    [usernameEmail] => wolfi
+    [password] => password
+)
+
+
+[2024-12-17 16:43:50] Attempting to find user: wolfi
+
+[2024-12-17 16:43:50] User found: Yes
+[2024-12-17 16:43:50] User data: Array
+(
+    [id] => 16
+    [username] => wolfi
+    [email] => wolfi@gmail.com
+    [password] => $2y$10$we.MuUW3ff0tK53/aiXVUONPm9gePZdQ.I4sXhwkqkHC1xCQ5PU3e
+    [created_at] => 2024-12-12 17:54:25
+)
+
+[2024-12-17 16:43:50] Stored hashed password: $2y$10$we.MuUW3ff0tK53/aiXVUONPm9gePZdQ.I4sXhwkqkHC1xCQ5PU3e
+[2024-12-17 16:43:50] Provided password: password
+[2024-12-17 16:43:50] Password verification result: Success
+[2024-12-17 16:43:50] password_verify() function result: true
+[2024-12-17 16:43:50] Session data: Array
+(
+    [username] => wolfi
+)
+
+[2024-12-17 16:43:50] Response: {"success":true}
+[2024-12-17 16:45:44] Received data: Array
+(
+    [usernameEmail] => wolfi
+    [password] => password
+)
+
+
+[2024-12-17 16:45:44] Attempting to find user: wolfi
+
+[2024-12-17 16:45:44] User found: Yes
+[2024-12-17 16:45:44] User data: Array
+(
+    [id] => 16
+    [username] => wolfi
+    [email] => wolfi@gmail.com
+    [password] => $2y$10$we.MuUW3ff0tK53/aiXVUONPm9gePZdQ.I4sXhwkqkHC1xCQ5PU3e
+    [created_at] => 2024-12-12 17:54:25
+)
+
+[2024-12-17 16:45:44] Stored hashed password: $2y$10$we.MuUW3ff0tK53/aiXVUONPm9gePZdQ.I4sXhwkqkHC1xCQ5PU3e
+[2024-12-17 16:45:44] Provided password: password
+[2024-12-17 16:45:44] Password verification result: Success
+[2024-12-17 16:45:44] password_verify() function result: true
+[2024-12-17 16:45:44] Session data: Array
+(
+    [username] => wolfi
+)
+
+[2024-12-17 16:45:44] Response: {"success":true}
+[2024-12-17 17:04:23] Received data: Array
+(
+    [usernameEmail] => wolfi
+    [password] => password
+)
+
+
+[2024-12-17 17:04:23] Attempting to find user: wolfi
+
+[2024-12-17 17:04:23] User found: Yes
+[2024-12-17 17:04:23] User data: Array
+(
+    [id] => 16
+    [username] => wolfi
+    [email] => wolfi@gmail.com
+    [password] => $2y$10$we.MuUW3ff0tK53/aiXVUONPm9gePZdQ.I4sXhwkqkHC1xCQ5PU3e
+    [created_at] => 2024-12-12 17:54:25
+)
+
+[2024-12-17 17:04:23] Stored hashed password: $2y$10$we.MuUW3ff0tK53/aiXVUONPm9gePZdQ.I4sXhwkqkHC1xCQ5PU3e
+[2024-12-17 17:04:23] Provided password: password
+[2024-12-17 17:04:23] Password verification result: Success
+[2024-12-17 17:04:23] password_verify() function result: true
+[2024-12-17 17:04:23] Session data: Array
+(
+    [username] => wolfi
+)
+
+[2024-12-17 17:04:23] Response: {"success":true}
+[2024-12-17 17:37:25] Received data: 
+

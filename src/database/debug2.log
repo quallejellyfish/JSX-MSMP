@@ -1,0 +1,18 @@
+Fetched user: Array
+(
+    [id] => 2
+    [username] => wolfi
+    [email] => wolfi@test.erfagjitharuigjhaeiugaigjgiu
+    [password] => $2y$10$ZUCOVIQIxJNfYSDCg9/JjucAYc3rMbtxDzkX7ugNN3pW4ajVD4VD2
+    [created_at] => 2024-12-07 18:24:57
+)
+
+Fetched user: Array
+(
+    [id] => 2
+    [username] => wolfi
+    [email] => wolfi@test.erfagjitharuigjhaeiugaigjgiu
+    [password] => $2y$10$ZUCOVIQIxJNfYSDCg9/JjucAYc3rMbtxDzkX7ugNN3pW4ajVD4VD2
+    [created_at] => 2024-12-07 18:24:57
+)
+

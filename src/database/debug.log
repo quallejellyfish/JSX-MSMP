@@ -1,0 +1,195 @@
+Raw Data: {"username":"123","email":"123","password":"123"}
+Decoded Data: Array
+(
+    [username] => 123
+    [email] => 123
+    [password] => 123
+)
+Raw Data: 
+Decoded Data: Raw Data: 
+Decoded Data: Raw Data: {"username":"wolfi","email":"wolfi@test.erfagjitharuigjhaeiugaigjgiu","password":"mypassword"}
+Decoded Data: Array
+(
+    [username] => wolfi
+    [email] => wolfi@test.erfagjitharuigjhaeiugaigjgiu
+    [password] => mypassword
+)
+Raw Data: 
+Decoded Data: Raw Data: {"username":"wolfi","email":"test123@gmail.com","password":"^123"}
+Decoded Data: Array
+(
+    [username] => wolfi
+    [email] => test123@gmail.com
+    [password] => ^123
+)
+Raw Data: {"username":"lalalalalaa","email":"ligma@gmail.com","password":"mypassword"}
+Decoded Data: Array
+(
+    [username] => lalalalalaa
+    [email] => ligma@gmail.com
+    [password] => mypassword
+)
+Raw Data: {"username":"wolfooioiiooiolopopopop","email":"oiejarthjiergjihertgjvgbheh@uiogebthotmaasertgerftg","password":"rstghjwrtjhraefthtuk"}
+Decoded Data: Array
+(
+    [username] => wolfooioiiooiolopopopop
+    [email] => oiejarthjiergjihertgjvgbheh@uiogebthotmaasertgerftg
+    [password] => rstghjwrtjhraefthtuk
+)
+Raw Data: {"username":"1234","email":"341234@gmail.com","password":"35"}
+Decoded Data: Array
+(
+    [username] => 1234
+    [email] => 341234@gmail.com
+    [password] => 35
+)
+Raw Data: {"usernameEmail":"ewrfgerf","password":"efref"}
+Decoded Data: Array
+(
+    [usernameEmail] => ewrfgerf
+    [password] => efref
+)
+Raw Data: {"usernameEmail":"ewrfgerf","password":"efref"}
+Decoded Data: Array
+(
+    [usernameEmail] => ewrfgerf
+    [password] => efref
+)
+Raw Data: {"usernameEmail":"ewrfgerf","password":"efref"}
+Decoded Data: Array
+(
+    [usernameEmail] => ewrfgerf
+    [password] => efref
+)
+Raw Data: {"usernameEmail":"ewrfgerf","password":"efref"}
+Decoded Data: Array
+(
+    [usernameEmail] => ewrfgerf
+    [password] => efref
+)
+Raw Data: {"usernameEmail":"ewrfgerf","password":"efref"}
+Decoded Data: Array
+(
+    [usernameEmail] => ewrfgerf
+    [password] => efref
+)
+Raw Data: {"usernameEmail":"ewrfgerf","password":"efref"}
+Decoded Data: Array
+(
+    [usernameEmail] => ewrfgerf
+    [password] => efref
+)
+Raw Data: {"usernameEmail":"ewrfgerf","password":"efref"}
+Decoded Data: Array
+(
+    [usernameEmail] => ewrfgerf
+    [password] => efref
+)
+Raw Data: 
+Decoded Data: Raw Data: 
+Decoded Data: Raw Data: 
+Decoded Data: Raw Data: 
+Decoded Data: Raw Data: {"usernameEmail":"ewrfgerf","password":"efref"}
+Decoded Data: Array
+(
+    [usernameEmail] => ewrfgerf
+    [password] => efref
+)
+Raw Data: {"usernameEmail":"ewrfgerf","password":"efref"}
+Decoded Data: Array
+(
+    [usernameEmail] => ewrfgerf
+    [password] => efref
+)
+Raw Data: {"usernameEmail":"ewrfgerf","password":"efref"}
+Decoded Data: Array
+(
+    [usernameEmail] => ewrfgerf
+    [password] => efref
+)
+Raw Data: {"usernameEmail":"ewrfgerf","password":"efref"}
+Decoded Data: Array
+(
+    [usernameEmail] => ewrfgerf
+    [password] => efref
+)
+Raw Data: {"usernameEmail":"ewrfgerf","password":"efref"}
+Decoded Data: Array
+(
+    [usernameEmail] => ewrfgerf
+    [password] => efref
+)
+Raw Data: {"username":"wolfi","email":"test@gmail.com","password":"password"}
+Decoded Data: Array
+(
+    [username] => wolfi
+    [email] => test@gmail.com
+    [password] => password
+)
+Raw Data: 
+Decoded Data: Raw Data: {"username":"test","email":"test@gmail.com","password":"test"}
+Decoded Data: Array
+(
+    [username] => test
+    [email] => test@gmail.com
+    [password] => test
+)
+Raw Data: 
+Decoded Data: Raw Data: {"username":"wolfi","email":"test@gmail.com","password":"password"}
+Decoded Data: Array
+(
+    [username] => wolfi
+    [email] => test@gmail.com
+    [password] => password
+)
+Raw Data: {"username":"wolfi","email":"test@gmail.com","password":"password"}
+Decoded Data: Array
+(
+    [username] => wolfi
+    [email] => test@gmail.com
+    [password] => password
+)
+Raw Data: {"username":"wolfi","email":"test@gmail.com","password":"password"}
+Decoded Data: Array
+(
+    [username] => wolfi
+    [email] => test@gmail.com
+    [password] => password
+)
+Raw Data: {"username":"wolfi","email":"test@gmail.com","password":"password"}
+Decoded Data: Array
+(
+    [username] => wolfi
+    [email] => test@gmail.com
+    [password] => password
+)
+Raw Data: {"username":"wolfi","email":"test@gmail.com","password":"password"}
+Decoded Data: Array
+(
+    [username] => wolfi
+    [email] => test@gmail.com
+    [password] => password
+)
+Raw Data: {"username":"wolfi","email":"test@gmail.com","password":"password"}
+Decoded Data: Array
+(
+    [username] => wolfi
+    [email] => test@gmail.com
+    [password] => password
+)
+Raw Data: {"username":"wolfi","email":"test@gmail.com","password":"password"}
+Decoded Data: Array
+(
+    [username] => wolfi
+    [email] => test@gmail.com
+    [password] => password
+)
+Raw Data: {"username":"wolfi","email":"wolfi@gmail.com","password":"password"}
+Decoded Data: Array
+(
+    [username] => wolfi
+    [email] => wolfi@gmail.com
+    [password] => password
+)
+Raw Data: 
+Decoded Data: 
