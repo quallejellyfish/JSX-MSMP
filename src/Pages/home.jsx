@@ -12,7 +12,7 @@ const Home = () => {
     {
       id: 1,
       author: "Qualle Jellyfish",
-      text: "Todo: store posts, save-posts, like posts logic, comment on posts logic, profile picture system, name system, register/login✅, make a CRUD || admin-view",
+      text: "Todo: store posts, save-posts, like & comment on posts logic, profile picture system, name system, secure register/login, make a CRUD || admin-view, add timestamps to posts, create a backend api for the login register system to not use localhost for the system so i can use render.com",
       image: banner,
       likes: 42,
       comments: 7,
