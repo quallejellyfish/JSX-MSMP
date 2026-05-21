@@ -1,35 +1,39 @@
 import React, { useState } from "react";
 import "../Styles/login.css";
+import { useNavigate } from "react-router-dom";
 
 const Login = () => {
   const [username, setUsername] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [errorMessage, setErrorMessage] = useState("");
+  const navigate = useNavigate();
 
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    // Log the form data to make sure it's being captured correctly
     console.log({ username, email, password });
 
     try {
       const response = await fetch(
-        "http://localhost/Learning_React_JSX-MakingSolcialMediaApp/src/database/register.php",
+        "http://localhost/JSX-MSMP/src/database/register.php",
         {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
           },
           body: JSON.stringify({ username, email, password }),
-        }
+        },
       );
 
       const data = await response.json();
       console.log("Server response:", data); // log server response
 
       if (data.success) {
-        alert("Registration successful!");
+        alert("Registration successful! Redirecting home.");
+        setTimeout(() => {
+          navigate("/");
+        }, 500);
       } else {
         setErrorMessage(data.error); // Show error if any
       }

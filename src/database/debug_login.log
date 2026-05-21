@@ -260,3 +260,61 @@ Received data:
 [2024-12-17 17:04:23] Response: {"success":true}
 [2024-12-17 17:37:25] Received data: 
 
+[2026-05-21 14:51:11] Received data: Array
+(
+    [usernameEmail] => zogokugag@mailinator.com
+    [password] => Pa$$w0rd!
+)
+
+
+[2026-05-21 14:51:11] Attempting to find user: zogokugag@mailinator.com
+
+[2026-05-21 14:51:11] User found: Yes
+[2026-05-21 14:51:11] User data: Array
+(
+    [id] => 17
+    [username] => Soluta totam quae ad
+    [email] => zogokugag@mailinator.com
+    [password] => $2y$10$UmMQW0vINtSyvmdLq3vdQeAwfVtzUhdYEO93l6bYBTzkxT/E.fguG
+    [created_at] => 2026-05-21 20:50:05
+)
+
+[2026-05-21 14:51:11] Stored hashed password: $2y$10$UmMQW0vINtSyvmdLq3vdQeAwfVtzUhdYEO93l6bYBTzkxT/E.fguG
+[2026-05-21 14:51:11] Provided password: Pa$$w0rd!
+[2026-05-21 14:51:11] Password verification result: Success
+[2026-05-21 14:51:11] password_verify() function result: true
+[2026-05-21 14:51:11] Session data: Array
+(
+    [username] => Soluta totam quae ad
+)
+
+[2026-05-21 14:51:11] Response: {"success":true}
+[2026-05-21 14:51:17] Received data: Array
+(
+    [usernameEmail] => zogokugag@mailinator.com
+    [password] => Pa$$w0rd!
+)
+
+
+[2026-05-21 14:51:17] Attempting to find user: zogokugag@mailinator.com
+
+[2026-05-21 14:51:17] User found: Yes
+[2026-05-21 14:51:17] User data: Array
+(
+    [id] => 17
+    [username] => Soluta totam quae ad
+    [email] => zogokugag@mailinator.com
+    [password] => $2y$10$UmMQW0vINtSyvmdLq3vdQeAwfVtzUhdYEO93l6bYBTzkxT/E.fguG
+    [created_at] => 2026-05-21 20:50:05
+)
+
+[2026-05-21 14:51:17] Stored hashed password: $2y$10$UmMQW0vINtSyvmdLq3vdQeAwfVtzUhdYEO93l6bYBTzkxT/E.fguG
+[2026-05-21 14:51:17] Provided password: Pa$$w0rd!
+[2026-05-21 14:51:17] Password verification result: Success
+[2026-05-21 14:51:17] password_verify() function result: true
+[2026-05-21 14:51:17] Session data: Array
+(
+    [username] => Soluta totam quae ad
+)
+
+[2026-05-21 14:51:17] Response: {"success":true}

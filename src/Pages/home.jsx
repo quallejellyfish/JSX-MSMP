@@ -1,7 +1,8 @@
 import React, { useState } from "react";
 import "../Styles/home.css";
 import ProfilePicture from "../Assets/pinkjellyfish.jpg";
-import banner from "../Assets/signature.png";
+import banner from "../Assets/Silberfuchs.jpg";
+import banner2 from "../Assets/mobile.png";
 import PostOverlay from "./postOverlay";
 import { useNavigate } from "react-router-dom";
 
@@ -14,6 +15,14 @@ const Home = () => {
       text: "Todo: store posts, save-posts, like posts logic, comment on posts logic, profile picture system, name system, register/login✅, make a CRUD || admin-view",
       image: banner,
       likes: 42,
+      comments: 7,
+    },
+    {
+      id: 2,
+      author: "Qualle Jellyfish",
+      text: "Design idea to make mobile more responsive",
+      image: banner2,
+      likes: 10,
       comments: 7,
     },
   ]);
@@ -32,21 +41,37 @@ const Home = () => {
     navigate("/saved-timestamp");
   };
 
+  const changeRoute3 = () => {
+    navigate("/register");
+  };
+
+  const changeRoute4 = () => {
+    navigate("/login");
+  };
+
   const addPost = (newPost) => {
     const post = {
-      id: posts.length + 1,
+      id: Date.now(),
       author: "Qualle Jellyfish",
       ...newPost,
       likes: 0,
       comments: 0,
     };
+
     setPosts((prevPosts) => [post, ...prevPosts]);
   };
 
   return (
     <>
       <div className="top">
-        <div className="nav-bar"></div>
+        <div className="nav-bar">
+          <button onClick={changeRoute4} title="temporary">
+            Login
+          </button>
+          <button onClick={changeRoute3} title="temporary">
+            Register
+          </button>
+        </div>
       </div>
 
       <div className="container">
@@ -58,7 +83,7 @@ const Home = () => {
             <div className="text-content">
               <h3>Qualle Jellyfish</h3>
               <h5>
-                About me:<br></br>i coded this website
+                About me:<br></br>I made this website when i was 14 years old.
               </h5>
             </div>
           </div>
@@ -153,6 +178,8 @@ const Home = () => {
               </div>
             ))}
           </div>
+          <br />
+          <br />
         </div>
         {/* right */}
         <div className="right">
@@ -160,7 +187,7 @@ const Home = () => {
             what am i supposed to put here.. friends maybe??
           </div>
           <footer className="liecense">
-            Copyrgiht all rights reserve wolfi ©️ 2024
+            Copyright all rights reserve wolfi ©️ 2024
           </footer>
         </div>
       </div>

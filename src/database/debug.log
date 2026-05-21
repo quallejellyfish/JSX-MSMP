@@ -192,4 +192,24 @@ Decoded Data: Array
     [password] => password
 )
 Raw Data: 
-Decoded Data: 
+Decoded Data: Raw Data: {"username":"Soluta totam quae ad","email":"zogokugag@mailinator.com","password":"Pa$$w0rd!"}
+Decoded Data: Array
+(
+    [username] => Soluta totam quae ad
+    [email] => zogokugag@mailinator.com
+    [password] => Pa$$w0rd!
+)
+Raw Data: {"username":"Ut eos quia non sint","email":"rabopefynu@mailinator.com","password":"Pa$$w0rd!"}
+Decoded Data: Array
+(
+    [username] => Ut eos quia non sint
+    [email] => rabopefynu@mailinator.com
+    [password] => Pa$$w0rd!
+)
+Raw Data: {"username":"Consectetur tenetur","email":"kepavo@mailinator.com","password":"Pa$$w0rd!"}
+Decoded Data: Array
+(
+    [username] => Consectetur tenetur
+    [email] => kepavo@mailinator.com
+    [password] => Pa$$w0rd!
+)

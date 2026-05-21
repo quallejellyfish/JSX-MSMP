@@ -18,7 +18,7 @@ const Login = () => {
 
     try {
       const response = await fetch(
-        "http://localhost/Learning_React_JSX-MakingSolcialMediaApp/src/database/login.php",
+        "http://localhost/JSX-MSMP/src/database/login.php",
         {
           method: "POST",
           headers: {
@@ -49,7 +49,7 @@ const Login = () => {
       console.log("Server response:", data); // server response
 
       if (data.success) {
-        alert("Login successful! Redirecting home");
+        alert("Login successful! Redirecting home.");
         setTimeout(() => {
           navigate("/");
         }, 500);
